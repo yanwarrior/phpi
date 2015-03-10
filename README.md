@@ -15,6 +15,18 @@ python setup.py py2exe
 # Cara Pakai Langsung
 ## For Windows
 cara menggunakan PHPI langsung (dengan asumsi `require` terpenuhi) adalah dengan mengeset `System Environment Variable` ke direktori PHPI yang sudah di unduh.
+
+jalankan :
+```
+phpi <enter>
+```
+maka akan keluar mode interactive :
+```
+PHP Interactive Shell Version 1.0.0 (Yanwar Solahudin)
+please typing 'phpi:help' for help.
+
+phpi->
+```
 ## For Linux
 dalam pengembangan.
 
