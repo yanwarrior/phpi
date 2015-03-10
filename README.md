@@ -16,7 +16,7 @@ python setup.py py2exe
 ## For Windows
 cara menggunakan PHPI langsung (dengan asumsi `require` terpenuhi) adalah dengan mengeset `System Environment Variable` ke direktori PHPI yang sudah di unduh.
 ## For Linux
-dengan membuat `symbolic link`.
+dalam pengembangan.
 
 # Setting Path PHP
 ```batch
